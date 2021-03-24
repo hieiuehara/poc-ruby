@@ -50,3 +50,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added at 2021-03-24 12:55:31 -0300 by hieiuehara:
 gem "pg", "~> 1.2"
+
+gem 'devise'
+
+gem 'bcrypt', '~> 3.1.7'
