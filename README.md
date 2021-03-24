@@ -9,3 +9,6 @@ Add to your hosts
 
 Create db on the first time ONLY!!!1111
 docker-compose run web rake db:create
+
+Rake Routes
+docker-compose run web rake routes
